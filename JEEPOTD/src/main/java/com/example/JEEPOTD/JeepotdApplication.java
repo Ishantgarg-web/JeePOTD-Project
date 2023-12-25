@@ -14,7 +14,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * 2. user get submitted answer. - DONE
  * 3. user get All previous problems. - DONE
  * 4. need to deploy the springBootApp. - DONE
- * 5. user will get mail if user not solved problem by 9pm.
  * 
  * update on 05-12-23:
  * 1. Add API /getProblem to get Problems continuously. not related with POTD.
